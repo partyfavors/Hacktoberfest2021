@@ -4,7 +4,7 @@
 
 October 01, 2021 - October 31, 2021 • Virtual
 Hacktoberfest, in its 8th year, is a month-long celebration of open source software. During the month of October, we invite you to join open-source software enthusiasts, beginners, and the developer community by contributing to open-source projects.
-Hacktoberfestfunc main() {
+func main() {
 	fmt.Println("Hello, 世界")
 }
 
