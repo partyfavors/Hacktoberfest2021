@@ -11,4 +11,4 @@ hfest-repo -t <TOKEN> -u <USER>/-o <ORG> --remove
 Difficulty: Easy
 
 For the initial asset conversion, openage provides textual output to signal which stage of conversion has been reached. The output usually looks like this:
-> alert(Jamie");
+> alert(green");
